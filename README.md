@@ -6,8 +6,8 @@
 ### 3. How many customers are repeaters ?
 
 ## II. Sales
-### 1. What is the average basket by product category?
-### 2. What are the most popular products?
+### 1. What is the average basket by product category ?
+### 2. What are the most popular products ?
 ### 3. What are repeat customers mostly buying ?
 
 ## III. Customer segmentation
